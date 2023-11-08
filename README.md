@@ -1,2 +1,2 @@
 # projeto-android
-Projeto sobre as curiosidades do Android
+Projeto sobre as curiosidades do ícone do Android
