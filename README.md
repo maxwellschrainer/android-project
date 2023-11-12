@@ -1,5 +1,5 @@
-# projeto-android
+# android-project
 
-Curiosidades sobre o ícone do Android
+Interesting facts about the Android mascot
 
-<a href="https://maxwellschrainer.github.io/projeto-android">Executar o site</a>
+<a href="https://maxwellschrainer.github.io/projeto-android">Run the website</a>
