@@ -154,6 +154,7 @@ main a:hover{
 main h2 {
   font-family: var(--fonte-android);
   color: var(--cor4);
+  margin-top: 8px;
   font-size: 1.3em;
   font-weight: normal;
   background-image: linear-gradient(to right, var(--cor1), transparent);
